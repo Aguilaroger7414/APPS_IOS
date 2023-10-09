@@ -1,0 +1,9 @@
+Flutter UI Development: You learned how to create a simple Flutter user interface (UI) for a login and registration system using various Flutter widgets like TextFormField, ElevatedButton, and Scaffold.
+
+State Management: You gained understanding of how to manage the state of your Flutter application using the setState method to update the UI in response to user interactions.
+
+Form Validation: You learned how to perform form validation in Flutter using the Form widget and the TextFormField widget's validator property to ensure user input is valid.
+
+Navigation: You explored how to navigate between different screens or pages in your Flutter app using the Navigator class, allowing users to move from the login/registration screen to the welcome screen and back.
+
+User Registration and Login Logic: You implemented the logic for user registration and login, including storing user credentials and verifying them when a user attempts to log in. You also handled scenarios where users already exist or entered incorrect credentials.
